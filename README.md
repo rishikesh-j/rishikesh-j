@@ -3,7 +3,7 @@
 <h1 align="center">Aloha! 👋 I'm Rishikesh Jayakumar </h1>
 
 
-<p aligh="left">I'm a Cyber Security Researcher. My area of expertice would be Application Security and Network Security. I'm also trying to do well in Bug Bounties.</p>
+<p aligh="left">I'm a Cyber Security Researcher. My area of expertice would be Application Security and Network Security. I'm also trying to do well in Bug Bounties.Basically am trying to make the internet a better place 😜.</p>
 
 <br>
 
