@@ -30,6 +30,11 @@ If you need some help in any technical topic or want to work together on somethi
 [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Twitter&message=R1SH1KE5H&color=blue)](https://twitter.com/r1sh1ke5h)
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=Gmail&message=rishikeshmits@gmail.com&color=red)](mailto:rishikeshmits@gmail.com)
 
+## Featured Repos
+
+![Shodan Monitor](https://github-readme-stats.vercel.app/api/pin/?username=rishikesh-j&repo=Shodan-Monitor&theme=vue-dark)
+![JSRecon](https://github-readme-stats.vercel.app/api/pin/?username=rishikesh-j&repo=JSRecon&theme=vue-dark)
+
 
 ## Github Statistics -
 
