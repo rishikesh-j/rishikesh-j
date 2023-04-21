@@ -2,7 +2,6 @@
 <br>
 <h1 align="center">Aloha! 👋 I'm Rishikesh Jayakumar </h1>
 
-<p aligh="left">I'm a Cyber Security Researcher. My field of study narrows down to Application Security and Network Security. Apart from my passion and goals, I do have a taste in CTF games which excites me about all this even more.</p>
 
 <p aligh="left">I'm a Cyber Security Researcher. My area of expertice would be Application Security and Network Security. I'm also trying to do well in Bug Bounties.</p>
 
