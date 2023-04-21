@@ -9,6 +9,8 @@
 <br>
 
 [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Twitter&message=R1SH1KE5H&color=blue)](https://twitter.com/r1sh1ke5h)
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=LinkedIn&message=Rishikesh-J&color=blue)](https://www.linkedin.com/in/rishikesh-j/)
+[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=Gmail&message=rishikeshmits@gmail.com&color=red)](mailto:rishikeshmits@gmail.com)
 
 
 ## ME -
