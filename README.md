@@ -31,6 +31,11 @@ If you need some help in any technical topic or want to work together on somethi
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=Gmail&message=rishikeshmits@gmail.com&color=red)](mailto:rishikeshmits@gmail.com)
 
 
+## Github Statistics -
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishikesh-j&show_icons=true&theme=vue-dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh-j&count_private=true&theme=vue-dark&layout=compact)
+
 <!--
 **rishikesh-j/rishikesh-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
