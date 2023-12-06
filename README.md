@@ -39,7 +39,7 @@ If you need some help in any technical topic or want to work together on somethi
 
 ## Github Statistics -
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishikesh-j&show_icons=true&theme=vue-dark&count_private=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishikesh-j&show_icons=true&theme=vue-dark&count_private=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh-j&count_private=true&theme=vue-dark&layout=compact)
 
 <!--
