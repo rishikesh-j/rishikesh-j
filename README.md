@@ -14,8 +14,9 @@
 
 ## ME -
 
-- 🪲 I’m currently working on **Bug Hunting and Automation Projects**
-- 📜 I would love to learn more **InfoSec stuff**
+- 💻 I’m currently working as **Security Engineer.**
+- 🪲 Love doing **Bug Bounty Hunting and taking up Security Projects.**
+- 📜 Craving to learn more on **InfoSec**
 - 👐 I’m happy to collaborate on **projects reelated to my field.**
 - 📫 How to reach me: **I prefer using Twitter: <a href='https://twitter.com/r1sh1ke5h'>r1sh1ke5h</a>**
 
