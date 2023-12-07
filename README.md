@@ -34,8 +34,8 @@ If you need some help in any technical topic or want to work together on somethi
 
 ![Shodan Monitor](https://github-readme-stats.vercel.app/api/pin/?username=rishikesh-j&repo=Shodan-Monitor&theme=vue-dark)
 ![JSRecon](https://github-readme-stats.vercel.app/api/pin/?username=rishikesh-j&repo=JSRecon&theme=vue-dark)
+![JSRecon](https://github-readme-stats.vercel.app/api/pin/?username=rishikesh-j&repo=DS_Store-Reader&theme=vue-dark)
 ![Confus3r](https://github-readme-stats.vercel.app/api/pin/?username=rishikesh-j&repo=Confus3r&theme=vue-dark)
-
 
 ## Github Statistics -
 
