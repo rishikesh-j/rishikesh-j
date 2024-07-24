@@ -3,8 +3,10 @@
 <h1 align="center">Aloha! 👋 I'm Rishikesh Jayakumar </h1>
 
 
-<p aligh="centre">I'm a Hack3r. Yep that's all the summary you need.</p>
+<p aligh="centre">I'm a Hack3r.</p>
+
 <p aligh="left">Yep that's all the summary you need.</p>
+
 <br>
 
 [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Twitter&message=R1SH1KE5H&color=blue)](https://twitter.com/r1sh1ke5h)
