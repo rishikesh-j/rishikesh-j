@@ -4,8 +4,7 @@
 
 
 <p aligh="centre">I'm a Hack3r.</p>
-
-<p aligh="left">Yep that's all the summary you need.</p>
+<p aligh="left">Yep that's it.</p>
 
 <br>
 
