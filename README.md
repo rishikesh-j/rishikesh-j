@@ -3,7 +3,7 @@
 <h1 align="center">Aloha! 👋 I'm Rishikesh Jayakumar </h1>
 
 
-<p aligh="centre">I'm a Hack3r.</p>
+<p aligh="center">I'm a Hack3r.</p>
 <p aligh="left">Yep that's it.</p>
 
 <br>
